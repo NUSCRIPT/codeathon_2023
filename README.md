@@ -1,2 +1,3 @@
-# codeathon_2023
-Outcomes of the 2023 Codeathon
+# Blogpost on: Clinical and Single-Cell Transcriptomics for Pneumonia Codeathon
+
+Ensure to return as datasets and publications will be published.
