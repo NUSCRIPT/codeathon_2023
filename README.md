@@ -1,6 +1,8 @@
 # Clinical and Single-Cell Transcriptomics for Pneumonia Codeathon
 
+## Outcome descriptions
 
+Visit our [blogpost](https://script.northwestern.edu/codeathon_blog/), and return soon for more details and manuscripts.
 
 ## Data Overview
 
