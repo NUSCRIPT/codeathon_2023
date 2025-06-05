@@ -2,7 +2,7 @@
 
 ## Outcome descriptions
 
-For a **description of projects** visit our [blogpost](https://script.northwestern.edu/codeathon_blog/) or the [coverage from Northwestern's Research Computing Services](https://www.it.northwestern.edu/departments/it-services-support/research/rcds-case-studies/powering-codeathon-for-researcher-collaboration.html) which were essential to the success of the codeathon. 
+For a **description of projects** visit our [blogpost](https://script.northwestern.edu/codeathon_blog/). For more general coverage visit the [coverage from Northwestern's Research Computing Services](https://www.it.northwestern.edu/departments/it-services-support/research/rcds-case-studies/powering-codeathon-for-researcher-collaboration.html). They were essential to the success of the codeathon. 
 
 Return soon for more details and manuscripts.
 
