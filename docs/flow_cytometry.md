@@ -6,6 +6,8 @@ REDACTED
 ## Data Description
 Flow cytometry samples were prepared from broncheoalvelar lavage (BAL) samples of severe pneumonia patients using a custom panel of cell type specific fluroscent dyes. After manual gating, the percentage of 7 major cell populations was calculated out of total live cells.
 
+There are a total of 793 samples.
+
 | Column | Description |
 |--------|-------------|
 | (unlabeled) | Row number, can be ignored |
