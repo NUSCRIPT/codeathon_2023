@@ -9,6 +9,8 @@ REDACTED
 
 Cytokines were detected by Luminex assay using a combination of custom Milliplex panels and bespoke panels from Eve Technologies. Standard curves were fit and analyte concentrations were estimated as described in [Prolonged exposure to lung-derived cytokines is associated with inflammatory activation of microglia in patients with COVID-19](https://doi.org/10.1172/jci.insight.178859), including exclusion of low-confidence analyte predictions (saved as NA values).
 
+There are a total of 793 samples.
+
 ## Data Description
 
 The cytokine dataset contains the BAL or plasma sample ID and the corresponding cytokine protein expression values in [pg/mL]. 
